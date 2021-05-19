@@ -1,0 +1,13 @@
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.exe
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.deps.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.runtimeconfig.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.runtimeconfig.dev.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\bin\Debug\netcoreapp3.1\Matikkapeli.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.csprojAssemblyReference.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.AssemblyInfoInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.AssemblyInfo.cs
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Matikkapeli\Matikkapeli\obj\Debug\netcoreapp3.1\Matikkapeli.genruntimeconfig.cache
